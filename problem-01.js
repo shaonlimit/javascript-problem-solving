@@ -1,4 +1,9 @@
 // Given two non-negative integers low and high. Return the count of odd numbers between low and high (inclusive).
+/**
+ * @param {number} low
+ * @param {number} high
+ * @return {number}
+ */
 
 const countOdds = function (low, high) {
   let count = 0;
